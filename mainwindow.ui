@@ -60,7 +60,7 @@
      <string>Remove</string>
     </property>
    </widget>
-   <widget class="QLabel" name="displayRecord">
+   <widget class="QLabel" name="displayLabel">
     <property name="geometry">
      <rect>
       <x>50</x>
@@ -70,7 +70,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>displayRecord</string>
+     <string>displayLabel</string>
     </property>
    </widget>
    <widget class="QRadioButton" name="rdbEn2se">
